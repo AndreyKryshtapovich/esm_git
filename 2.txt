@@ -3,6 +3,9 @@
 8 -- different info
 7
 6 -- different info
+8 -- changed
+7
+6 -- changed
 5
 4
 3
